@@ -1,0 +1,646 @@
+{
+  "Nodes": [
+    {
+      "Name": "Size Constant",
+      "Category": "Constant",
+      "Min": 0.0,
+      "Max": 2000.0,
+      "Value_0": 980.0,
+      "Value_1": 0.0,
+      "Value_2": 0.0,
+      "Value_3": 692.0,
+      "PosX": -1800,
+      "PosY": 0,
+      "Id": 1
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.5,
+      "Value_Y": 0.5,
+      "PosX": -1800,
+      "PosY": 80,
+      "Id": 2
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1500,
+      "PosY": -200,
+      "Id": 3
+    },
+    {
+      "Name": "Screen Blur",
+      "Category": "Constant",
+      "PosX": -1800,
+      "PosY": 180,
+      "Id": 4
+    },
+    {
+      "Name": "Asset Constant",
+      "Category": "Constant",
+      "AssetName": "white",
+      "PosX": -1800,
+      "PosY": 260,
+      "Id": 5
+    },
+    {
+      "Name": "Color Constant",
+      "Category": "Constant",
+      "Value_Red": 1.0,
+      "Value_Green": 1.0,
+      "Value_Blue": 1.0,
+      "Value_Alpha": 1.0,
+      "PosX": -1800,
+      "PosY": 340,
+      "Id": 6
+    },
+    {
+      "Name": "Color Constant",
+      "Category": "Constant",
+      "Value_Red": 0.003035269835488375,
+      "Value_Green": 0.004776953480693729,
+      "Value_Blue": 0.003676507324047436,
+      "Value_Alpha": 0.84,
+      "PosX": -1800,
+      "PosY": 420,
+      "Id": 7
+    },
+    {
+      "Name": "Color Constant",
+      "Category": "Constant",
+      "Value_Red": 0.009134058702220787,
+      "Value_Green": 0.01520851442291271,
+      "Value_Blue": 0.011612245179743885,
+      "Value_Alpha": 0.6,
+      "PosX": -1800,
+      "PosY": 500,
+      "Id": 8
+    },
+    {
+      "Name": "Color Constant",
+      "Category": "Constant",
+      "Value_Red": 0.046665086336880095,
+      "Value_Green": 0.7011018919329731,
+      "Value_Blue": 0.25415209433082675,
+      "Value_Alpha": 0.4,
+      "PosX": -1800,
+      "PosY": 580,
+      "Id": 9
+    },
+    {
+      "Name": "Color Constant",
+      "Category": "Constant",
+      "Value_Red": 0.046665086336880095,
+      "Value_Green": 0.7011018919329731,
+      "Value_Blue": 0.25415209433082675,
+      "Value_Alpha": 1.0,
+      "PosX": -1800,
+      "PosY": 660,
+      "Id": 10
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.190707,
+      "Value_Y": 0.938016,
+      "PosX": -1500,
+      "PosY": 0,
+      "Id": 101
+    },
+    {
+      "Name": "Size Constant",
+      "Category": "Constant",
+      "Min": 0.0,
+      "Max": 4000.0,
+      "Value_0": 2000.0,
+      "Value_1": 0.0,
+      "Value_2": 0.0,
+      "Value_3": 2000.0,
+      "PosX": -1500,
+      "PosY": 60,
+      "Id": 102
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1200,
+      "PosY": 0,
+      "Id": 103
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "Min": -1.0,
+      "Max": 1.0,
+      "Value": 0.125,
+      "PosX": -1500,
+      "PosY": 160,
+      "Id": 104
+    },
+    {
+      "Name": "Rotate Transform",
+      "Category": "Transform",
+      "PosX": -1200,
+      "PosY": 160,
+      "Id": 105
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.5,
+      "Value_Y": 0.5,
+      "PosX": -1500,
+      "PosY": 320,
+      "Id": 106
+    },
+    {
+      "Name": "Size Constant",
+      "Category": "Constant",
+      "Min": 0.0,
+      "Max": 4000.0,
+      "Value_0": 980.0,
+      "Value_1": 0.0,
+      "Value_2": 0.0,
+      "Value_3": 692.0,
+      "PosX": -1500,
+      "PosY": 380,
+      "Id": 107
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1200,
+      "PosY": 320,
+      "Id": 108
+    },
+    {
+      "Name": "Render Image Image Mask",
+      "Category": "Image Render",
+      "Layer": 0,
+      "PosX": -900,
+      "PosY": 320,
+      "Id": 109
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.5,
+      "Value_Y": 0.5,
+      "PosX": -1500,
+      "PosY": 480,
+      "Id": 110
+    },
+    {
+      "Name": "Size Constant",
+      "Category": "Constant",
+      "Min": 0.0,
+      "Max": 4000.0,
+      "Value_0": 980.0,
+      "Value_1": 0.0,
+      "Value_2": 0.0,
+      "Value_3": 692.0,
+      "PosX": -1500,
+      "PosY": 540,
+      "Id": 111
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1200,
+      "PosY": 480,
+      "Id": 112
+    },
+    {
+      "Name": "Render Image Image Mask",
+      "Category": "Image Render",
+      "Layer": 1,
+      "PosX": -900,
+      "PosY": 480,
+      "Id": 113
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.5,
+      "Value_Y": 0.041908,
+      "PosX": -1500,
+      "PosY": 640,
+      "Id": 114
+    },
+    {
+      "Name": "Size Constant",
+      "Category": "Constant",
+      "Min": 0.0,
+      "Max": 4000.0,
+      "Value_0": 980.0,
+      "Value_1": 0.0,
+      "Value_2": 0.0,
+      "Value_3": 58.0,
+      "PosX": -1500,
+      "PosY": 700,
+      "Id": 115
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1200,
+      "PosY": 640,
+      "Id": 116
+    },
+    {
+      "Name": "Render Image Image Mask",
+      "Category": "Image Render",
+      "Layer": 2,
+      "PosX": -900,
+      "PosY": 640,
+      "Id": 117
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.5,
+      "Value_Y": 0.083092,
+      "PosX": -1500,
+      "PosY": 800,
+      "Id": 118
+    },
+    {
+      "Name": "Size Constant",
+      "Category": "Constant",
+      "Min": 0.0,
+      "Max": 4000.0,
+      "Value_0": 980.0,
+      "Value_1": 0.0,
+      "Value_2": 0.0,
+      "Value_3": 1.0,
+      "PosX": -1500,
+      "PosY": 860,
+      "Id": 119
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1200,
+      "PosY": 800,
+      "Id": 120
+    },
+    {
+      "Name": "Render Image Image Mask",
+      "Category": "Image Render",
+      "Layer": 3,
+      "PosX": -900,
+      "PosY": 800,
+      "Id": 121
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.002041,
+      "Value_Y": 0.5,
+      "PosX": -1500,
+      "PosY": 960,
+      "Id": 122
+    },
+    {
+      "Name": "Size Constant",
+      "Category": "Constant",
+      "Min": 0.0,
+      "Max": 4000.0,
+      "Value_0": 4.0,
+      "Value_1": 0.0,
+      "Value_2": 0.0,
+      "Value_3": 692.0,
+      "PosX": -1500,
+      "PosY": 1020,
+      "Id": 123
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1200,
+      "PosY": 960,
+      "Id": 124
+    },
+    {
+      "Name": "Render Image Image Mask",
+      "Category": "Image Render",
+      "Layer": 4,
+      "PosX": -900,
+      "PosY": 960,
+      "Id": 125
+    }
+  ],
+  "Links": [
+    {
+      "LeftNode": 2,
+      "LeftPin": "Value",
+      "RightNode": 3,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 2,
+      "LeftPin": "Value",
+      "RightNode": 3,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 1,
+      "LeftPin": "Value",
+      "RightNode": 3,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 3,
+      "LeftPin": "Out",
+      "RightNode": 103,
+      "RightPin": "Parent"
+    },
+    {
+      "LeftNode": 101,
+      "LeftPin": "Value",
+      "RightNode": 103,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 2,
+      "LeftPin": "Value",
+      "RightNode": 103,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 102,
+      "LeftPin": "Value",
+      "RightNode": 103,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 103,
+      "LeftPin": "Out",
+      "RightNode": 105,
+      "RightPin": "Parent"
+    },
+    {
+      "LeftNode": 102,
+      "LeftPin": "Value",
+      "RightNode": 105,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 2,
+      "LeftPin": "Value",
+      "RightNode": 105,
+      "RightPin": "Rotation Origin"
+    },
+    {
+      "LeftNode": 104,
+      "LeftPin": "Value",
+      "RightNode": 105,
+      "RightPin": "Rotation"
+    },
+    {
+      "LeftNode": 3,
+      "LeftPin": "Out",
+      "RightNode": 108,
+      "RightPin": "Parent"
+    },
+    {
+      "LeftNode": 106,
+      "LeftPin": "Value",
+      "RightNode": 108,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 2,
+      "LeftPin": "Value",
+      "RightNode": 108,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 107,
+      "LeftPin": "Value",
+      "RightNode": 108,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 4,
+      "LeftPin": "Value",
+      "RightNode": 109,
+      "RightPin": "Main Asset"
+    },
+    {
+      "LeftNode": 6,
+      "LeftPin": "Value",
+      "RightNode": 109,
+      "RightPin": "Main Color"
+    },
+    {
+      "LeftNode": 108,
+      "LeftPin": "Out",
+      "RightNode": 109,
+      "RightPin": "Transform"
+    },
+    {
+      "LeftNode": 105,
+      "LeftPin": "Out",
+      "RightNode": 109,
+      "RightPin": "Clip"
+    },
+    {
+      "LeftNode": 3,
+      "LeftPin": "Out",
+      "RightNode": 112,
+      "RightPin": "Parent"
+    },
+    {
+      "LeftNode": 110,
+      "LeftPin": "Value",
+      "RightNode": 112,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 2,
+      "LeftPin": "Value",
+      "RightNode": 112,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 111,
+      "LeftPin": "Value",
+      "RightNode": 112,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 5,
+      "LeftPin": "Value",
+      "RightNode": 113,
+      "RightPin": "Main Asset"
+    },
+    {
+      "LeftNode": 7,
+      "LeftPin": "Value",
+      "RightNode": 113,
+      "RightPin": "Main Color"
+    },
+    {
+      "LeftNode": 112,
+      "LeftPin": "Out",
+      "RightNode": 113,
+      "RightPin": "Transform"
+    },
+    {
+      "LeftNode": 105,
+      "LeftPin": "Out",
+      "RightNode": 113,
+      "RightPin": "Clip"
+    },
+    {
+      "LeftNode": 3,
+      "LeftPin": "Out",
+      "RightNode": 116,
+      "RightPin": "Parent"
+    },
+    {
+      "LeftNode": 114,
+      "LeftPin": "Value",
+      "RightNode": 116,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 2,
+      "LeftPin": "Value",
+      "RightNode": 116,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 115,
+      "LeftPin": "Value",
+      "RightNode": 116,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 5,
+      "LeftPin": "Value",
+      "RightNode": 117,
+      "RightPin": "Main Asset"
+    },
+    {
+      "LeftNode": 8,
+      "LeftPin": "Value",
+      "RightNode": 117,
+      "RightPin": "Main Color"
+    },
+    {
+      "LeftNode": 116,
+      "LeftPin": "Out",
+      "RightNode": 117,
+      "RightPin": "Transform"
+    },
+    {
+      "LeftNode": 105,
+      "LeftPin": "Out",
+      "RightNode": 117,
+      "RightPin": "Clip"
+    },
+    {
+      "LeftNode": 3,
+      "LeftPin": "Out",
+      "RightNode": 120,
+      "RightPin": "Parent"
+    },
+    {
+      "LeftNode": 118,
+      "LeftPin": "Value",
+      "RightNode": 120,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 2,
+      "LeftPin": "Value",
+      "RightNode": 120,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 119,
+      "LeftPin": "Value",
+      "RightNode": 120,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 5,
+      "LeftPin": "Value",
+      "RightNode": 121,
+      "RightPin": "Main Asset"
+    },
+    {
+      "LeftNode": 9,
+      "LeftPin": "Value",
+      "RightNode": 121,
+      "RightPin": "Main Color"
+    },
+    {
+      "LeftNode": 120,
+      "LeftPin": "Out",
+      "RightNode": 121,
+      "RightPin": "Transform"
+    },
+    {
+      "LeftNode": 3,
+      "LeftPin": "Out",
+      "RightNode": 124,
+      "RightPin": "Parent"
+    },
+    {
+      "LeftNode": 122,
+      "LeftPin": "Value",
+      "RightNode": 124,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 2,
+      "LeftPin": "Value",
+      "RightNode": 124,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 123,
+      "LeftPin": "Value",
+      "RightNode": 124,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 5,
+      "LeftPin": "Value",
+      "RightNode": 125,
+      "RightPin": "Main Asset"
+    },
+    {
+      "LeftNode": 10,
+      "LeftPin": "Value",
+      "RightNode": 125,
+      "RightPin": "Main Color"
+    },
+    {
+      "LeftNode": 124,
+      "LeftPin": "Out",
+      "RightNode": 125,
+      "RightPin": "Transform"
+    }
+  ],
+  "RuiWidth": 980.0,
+  "RuiHeight": 692.0
+}

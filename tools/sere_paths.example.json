@@ -1,0 +1,8 @@
+{
+  "sereRoot": "C:\\path\\to\\SERE",
+  "repakExe": "C:\\path\\to\\repak.exe",
+  "deployDir": "C:\\path\\to\\game\\paks\\Win64",
+  "artRoot": "C:\\path\\to\\art",
+  "bridge": "http://127.0.0.1:8790/rpc",
+  "vcvars": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Auxiliary\\Build\\vcvars64.bat"
+}

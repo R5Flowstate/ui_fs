@@ -1,0 +1,2823 @@
+{
+  "Nodes": [
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": -600.0,
+      "Id": 1,
+      "Min": 0,
+      "Max": 200,
+      "Value": 20.0
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": -520.0,
+      "Id": 2,
+      "Min": 0,
+      "Max": 200,
+      "Value": 22.0
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": -440.0,
+      "Id": 3,
+      "Min": 0,
+      "Max": 200,
+      "Value": 18.0
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": -360.0,
+      "Id": 4,
+      "Min": 0,
+      "Max": 200,
+      "Value": 16.0
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": -280.0,
+      "Id": 5,
+      "Min": 0,
+      "Max": 200,
+      "Value": 13.0
+    },
+    {
+      "Name": "Color Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": -200.0,
+      "Id": 6,
+      "Value_Red": 1.0,
+      "Value_Green": 1.0,
+      "Value_Blue": 1.0,
+      "Value_Alpha": 1.0
+    },
+    {
+      "Name": "Color Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": -120.0,
+      "Id": 7,
+      "Value_Red": 0.046665086336880095,
+      "Value_Green": 0.7011018919329731,
+      "Value_Blue": 0.25415209433082675,
+      "Value_Alpha": 1.0
+    },
+    {
+      "Name": "Color Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": -40.0,
+      "Id": 8,
+      "Value_Red": 0.88,
+      "Value_Green": 0.9,
+      "Value_Blue": 0.94,
+      "Value_Alpha": 1.0
+    },
+    {
+      "Name": "Color Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 40.0,
+      "Id": 9,
+      "Value_Red": 0.62,
+      "Value_Green": 0.65,
+      "Value_Blue": 0.7,
+      "Value_Alpha": 1.0
+    },
+    {
+      "Name": "Text Style",
+      "Category": "Text Render",
+      "PosX": -1650.0,
+      "PosY": -600.0,
+      "Id": 10,
+      "FontName": "ArameMono"
+    },
+    {
+      "Name": "Text Style",
+      "Category": "Text Render",
+      "PosX": -1650.0,
+      "PosY": -450.0,
+      "Id": 11,
+      "FontName": "ArameMono"
+    },
+    {
+      "Name": "Text Style",
+      "Category": "Text Render",
+      "PosX": -1650.0,
+      "PosY": -300.0,
+      "Id": 12,
+      "FontName": "ArameMono"
+    },
+    {
+      "Name": "Text Style",
+      "Category": "Text Render",
+      "PosX": -1650.0,
+      "PosY": -150.0,
+      "Id": 13,
+      "FontName": "ArameMono"
+    },
+    {
+      "Name": "Text Style",
+      "Category": "Text Render",
+      "PosX": -1650.0,
+      "PosY": 0.0,
+      "Id": 14,
+      "FontName": "ArameMono"
+    },
+    {
+      "Name": "Text Style",
+      "Category": "Text Render",
+      "PosX": -1650.0,
+      "PosY": 150.0,
+      "Id": 15,
+      "FontName": "ArameMono"
+    },
+    {
+      "Name": "Asset Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 240.0,
+      "Id": 16,
+      "AssetName": "white"
+    },
+    {
+      "Name": "Screen Blur",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 320.0,
+      "Id": 17
+    },
+    {
+      "Name": "Color Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 400.0,
+      "Id": 18,
+      "Value_Red": 1.0,
+      "Value_Green": 1.0,
+      "Value_Blue": 1.0,
+      "Value_Alpha": 1.0
+    },
+    {
+      "Name": "Color Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 440.0,
+      "Id": 19,
+      "Value_Red": 0.003035269835488375,
+      "Value_Green": 0.004776953480693729,
+      "Value_Blue": 0.003676507324047436,
+      "Value_Alpha": 0.84
+    },
+    {
+      "Name": "Color Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 480.0,
+      "Id": 20,
+      "Value_Red": 0.009134058702220787,
+      "Value_Green": 0.01520851442291271,
+      "Value_Blue": 0.011612245179743885,
+      "Value_Alpha": 0.6
+    },
+    {
+      "Name": "Color Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 560.0,
+      "Id": 21,
+      "Value_Red": 0.046665086336880095,
+      "Value_Green": 0.7011018919329731,
+      "Value_Blue": 0.25415209433082675,
+      "Value_Alpha": 0.4
+    },
+    {
+      "Name": "Color Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 640.0,
+      "Id": 22,
+      "Value_Red": 0.046665086336880095,
+      "Value_Green": 0.7011018919329731,
+      "Value_Blue": 0.25415209433082675,
+      "Value_Alpha": 1.0
+    },
+    {
+      "Name": "Color Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 720.0,
+      "Id": 23,
+      "Value_Red": 1.0,
+      "Value_Green": 0.47,
+      "Value_Blue": 0.125,
+      "Value_Alpha": 1.0
+    },
+    {
+      "Name": "Color Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 800.0,
+      "Id": 24,
+      "Value_Red": 0.62,
+      "Value_Green": 0.65,
+      "Value_Blue": 0.7,
+      "Value_Alpha": 1.0
+    },
+    {
+      "Name": "Color Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 880.0,
+      "Id": 25,
+      "Value_Red": 1.0,
+      "Value_Green": 1.0,
+      "Value_Blue": 1.0,
+      "Value_Alpha": 0.15
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 960.0,
+      "Id": 26,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.0,
+      "Value_Y": 0.0
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 1040.0,
+      "Id": 27,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.0,
+      "Value_Y": 0.5
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 1120.0,
+      "Id": 28,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 1.0,
+      "Value_Y": 0.5
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 1200.0,
+      "Id": 29,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.5,
+      "Value_Y": 0.5
+    },
+    {
+      "Name": "Float Arg",
+      "Category": "Argument",
+      "PosX": -1900.0,
+      "PosY": 1280.0,
+      "Id": 30,
+      "ArgName": "queueVis"
+    },
+    {
+      "Name": "Float Arg",
+      "Category": "Argument",
+      "PosX": -1900.0,
+      "PosY": 1330.0,
+      "Id": 31,
+      "ArgName": "graceVis"
+    },
+    {
+      "Name": "Float Arg",
+      "Category": "Argument",
+      "PosX": -1900.0,
+      "PosY": 1380.0,
+      "Id": 32,
+      "ArgName": "lockedVis"
+    },
+    {
+      "Name": "Float Arg",
+      "Category": "Argument",
+      "PosX": -1900.0,
+      "PosY": 1430.0,
+      "Id": 33,
+      "ArgName": "openVis"
+    },
+    {
+      "Name": "Gametime Arg",
+      "Category": "Argument",
+      "PosX": -1900.0,
+      "PosY": 1480.0,
+      "Id": 34,
+      "ArgName": "graceEnd"
+    },
+    {
+      "Name": "Float Arg",
+      "Category": "Argument",
+      "PosX": -1900.0,
+      "PosY": 1530.0,
+      "Id": 35,
+      "ArgName": "graceDur"
+    },
+    {
+      "Name": "Image Arg",
+      "Category": "Argument",
+      "PosX": -1900.0,
+      "PosY": 1580.0,
+      "Id": 36,
+      "ArgName": "logoImage"
+    },
+    {
+      "Name": "Image Arg",
+      "Category": "Argument",
+      "PosX": -1900.0,
+      "PosY": 1630.0,
+      "Id": 37,
+      "ArgName": "cardImage"
+    },
+    {
+      "Name": "Image Arg",
+      "Category": "Argument",
+      "PosX": -1900.0,
+      "PosY": 1680.0,
+      "Id": 38,
+      "ArgName": "lockClosedImage"
+    },
+    {
+      "Name": "Image Arg",
+      "Category": "Argument",
+      "PosX": -1900.0,
+      "PosY": 1730.0,
+      "Id": 39,
+      "ArgName": "lockOpenImage"
+    },
+    {
+      "Name": "Image Arg",
+      "Category": "Argument",
+      "PosX": -1900.0,
+      "PosY": 1780.0,
+      "Id": 40,
+      "ArgName": "queueInputIcon"
+    },
+    {
+      "Name": "Image Arg",
+      "Category": "Argument",
+      "PosX": -1900.0,
+      "PosY": 1830.0,
+      "Id": 41,
+      "ArgName": "queueMouseIcon"
+    },
+    {
+      "Name": "Image Arg",
+      "Category": "Argument",
+      "PosX": -1900.0,
+      "PosY": 1880.0,
+      "Id": 42,
+      "ArgName": "queuePadIcon"
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 1400.0,
+      "Id": 43,
+      "Min": 0,
+      "Max": 200,
+      "Value": 43.0
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 1450.0,
+      "Id": 44,
+      "Min": 0,
+      "Max": 200,
+      "Value": 58.0
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 1500.0,
+      "Id": 45,
+      "Min": 0,
+      "Max": 200,
+      "Value": 28.0
+    },
+    {
+      "Name": "Multiply",
+      "Category": "Math",
+      "PosX": -1650.0,
+      "PosY": 1400.0,
+      "Id": 46
+    },
+    {
+      "Name": "Multiply",
+      "Category": "Math",
+      "PosX": -1650.0,
+      "PosY": 1500.0,
+      "Id": 47
+    },
+    {
+      "Name": "Add",
+      "Category": "Math",
+      "PosX": -1500.0,
+      "PosY": 1400.0,
+      "Id": 48
+    },
+    {
+      "Name": "Add",
+      "Category": "Math",
+      "PosX": -1350.0,
+      "PosY": 1400.0,
+      "Id": 49
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 1600.0,
+      "Id": 50,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.106044,
+      "Value_Y": 0.5
+    },
+    {
+      "Name": "Size Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 1650.0,
+      "Id": 51,
+      "Min": 0.0,
+      "Max": 2000.0,
+      "Value_0": 1900.0,
+      "Value_1": 0.0,
+      "Value_2": 0.0,
+      "Value_3": 900.0
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1650.0,
+      "PosY": 1600.0,
+      "Id": 52
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 1750.0,
+      "Id": 53,
+      "Min": -1.0,
+      "Max": 1.0,
+      "Value": 0.125
+    },
+    {
+      "Name": "Rotate Transform",
+      "Category": "Transform",
+      "PosX": -1400.0,
+      "PosY": 1750.0,
+      "Id": 54
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 1900.0,
+      "Id": 55,
+      "Min": 0,
+      "Max": 2000,
+      "Value": 342.0
+    },
+    {
+      "Name": "Merge Size",
+      "Category": "Split Merge",
+      "PosX": -1350.0,
+      "PosY": 1900.0,
+      "Id": 56
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -1200.0,
+      "PosY": 2050.0,
+      "Id": 57,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.014583,
+      "Value_Y": 0.051852
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1050.0,
+      "PosY": 2050.0,
+      "Id": 58
+    },
+    {
+      "Name": "Render Image Image Mask",
+      "Category": "Image Render",
+      "PosX": -900.0,
+      "PosY": 2050.0,
+      "Id": 59,
+      "Layer": 0
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -1200.0,
+      "PosY": 2200.0,
+      "Id": 60,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.014583,
+      "Value_Y": 0.051852
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1050.0,
+      "PosY": 2200.0,
+      "Id": 61
+    },
+    {
+      "Name": "Render Image Image Mask",
+      "Category": "Image Render",
+      "PosX": -900.0,
+      "PosY": 2200.0,
+      "Id": 62,
+      "Layer": 1
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -1200.0,
+      "PosY": 2350.0,
+      "Id": 63,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.014583,
+      "Value_Y": 0.051852
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1050.0,
+      "PosY": 2350.0,
+      "Id": 64
+    },
+    {
+      "Name": "Render Image Image Mask",
+      "Category": "Image Render",
+      "PosX": -900.0,
+      "PosY": 2350.0,
+      "Id": 65,
+      "Layer": 2
+    },
+    {
+      "Name": "Size Constant",
+      "Category": "Constant",
+      "PosX": -1350.0,
+      "PosY": 2500.0,
+      "Id": 66,
+      "Min": 0.0,
+      "Max": 2000.0,
+      "Value_0": 342.0,
+      "Value_1": 0.0,
+      "Value_2": 0.0,
+      "Value_3": 43.0
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -1200.0,
+      "PosY": 2500.0,
+      "Id": 67,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.014583,
+      "Value_Y": 0.051852
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1050.0,
+      "PosY": 2500.0,
+      "Id": 68
+    },
+    {
+      "Name": "Render Image Image Mask",
+      "Category": "Image Render",
+      "PosX": -900.0,
+      "PosY": 2500.0,
+      "Id": 69,
+      "Layer": 3
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 2650.0,
+      "Id": 70,
+      "Min": 0,
+      "Max": 2000,
+      "Value": 3.0
+    },
+    {
+      "Name": "Merge Size",
+      "Category": "Split Merge",
+      "PosX": -1350.0,
+      "PosY": 2650.0,
+      "Id": 71
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -1200.0,
+      "PosY": 2800.0,
+      "Id": 72,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.014583,
+      "Value_Y": 0.051852
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1050.0,
+      "PosY": 2800.0,
+      "Id": 73
+    },
+    {
+      "Name": "Render Image Image Mask",
+      "Category": "Image Render",
+      "PosX": -900.0,
+      "PosY": 2800.0,
+      "Id": 74,
+      "Layer": 3
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 2950.0,
+      "Id": 75,
+      "Min": 0,
+      "Max": 2000,
+      "Value": 339.0
+    },
+    {
+      "Name": "Multiply",
+      "Category": "Math",
+      "PosX": -1650.0,
+      "PosY": 2950.0,
+      "Id": 76
+    },
+    {
+      "Name": "Merge Size",
+      "Category": "Split Merge",
+      "PosX": -1350.0,
+      "PosY": 2950.0,
+      "Id": 77
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 3000.0,
+      "Id": 78,
+      "Min": 0,
+      "Max": 2000,
+      "Value": 1.0
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -1200.0,
+      "PosY": 3100.0,
+      "Id": 79,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.016146,
+      "Value_Y": 0.091667
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1050.0,
+      "PosY": 3100.0,
+      "Id": 80
+    },
+    {
+      "Name": "Render Image Image Mask",
+      "Category": "Image Render",
+      "PosX": -900.0,
+      "PosY": 3100.0,
+      "Id": 81,
+      "Layer": 3
+    },
+    {
+      "Name": "Size Constant",
+      "Category": "Constant",
+      "PosX": -1350.0,
+      "PosY": 3250.0,
+      "Id": 82,
+      "Min": 0.0,
+      "Max": 2000.0,
+      "Value_0": 40.0,
+      "Value_1": 0.0,
+      "Value_2": 0.0,
+      "Value_3": 40.0
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -1200.0,
+      "PosY": 3250.0,
+      "Id": 83,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.029687,
+      "Value_Y": 0.071759
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1050.0,
+      "PosY": 3250.0,
+      "Id": 84
+    },
+    {
+      "Name": "Render Image Image Mask",
+      "Category": "Image Render",
+      "PosX": -900.0,
+      "PosY": 3250.0,
+      "Id": 85,
+      "Layer": 4
+    },
+    {
+      "Name": "String Arg",
+      "Category": "Argument",
+      "PosX": -700.0,
+      "PosY": 3400.0,
+      "Id": 86,
+      "ArgName": "headerText"
+    },
+    {
+      "Name": "Text Size",
+      "Category": "Text Render",
+      "PosX": -550.0,
+      "PosY": 3400.0,
+      "Id": 87
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -700.0,
+      "PosY": 3450.0,
+      "Id": 88,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.043229,
+      "Value_Y": 0.071759
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -400.0,
+      "PosY": 3400.0,
+      "Id": 89
+    },
+    {
+      "Name": "Text Render",
+      "Category": "Text Render",
+      "PosX": -250.0,
+      "PosY": 3400.0,
+      "Id": 90,
+      "Layer": 4
+    },
+    {
+      "Name": "String Arg",
+      "Category": "Argument",
+      "PosX": -700.0,
+      "PosY": 3550.0,
+      "Id": 91,
+      "ArgName": "countText"
+    },
+    {
+      "Name": "Text Size",
+      "Category": "Text Render",
+      "PosX": -550.0,
+      "PosY": 3550.0,
+      "Id": 92
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -700.0,
+      "PosY": 3600.0,
+      "Id": 93,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.185417,
+      "Value_Y": 0.071759
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -400.0,
+      "PosY": 3550.0,
+      "Id": 94
+    },
+    {
+      "Name": "Text Render",
+      "Category": "Text Render",
+      "PosX": -250.0,
+      "PosY": 3550.0,
+      "Id": 95,
+      "Layer": 4
+    },
+    {
+      "Name": "String Arg",
+      "Category": "Argument",
+      "PosX": -700.0,
+      "PosY": 3700.0,
+      "Id": 96,
+      "ArgName": "queueTitle"
+    },
+    {
+      "Name": "Text Size",
+      "Category": "Text Render",
+      "PosX": -550.0,
+      "PosY": 3700.0,
+      "Id": 97
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -700.0,
+      "PosY": 3750.0,
+      "Id": 98,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.022917,
+      "Value_Y": 0.107407
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -400.0,
+      "PosY": 3700.0,
+      "Id": 99
+    },
+    {
+      "Name": "Text Render",
+      "Category": "Text Render",
+      "PosX": -250.0,
+      "PosY": 3700.0,
+      "Id": 100,
+      "Layer": 4
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 3850.0,
+      "Id": 101,
+      "Min": 0,
+      "Max": 2000,
+      "Value": 16.0
+    },
+    {
+      "Name": "Multiply",
+      "Category": "Math",
+      "PosX": -1650.0,
+      "PosY": 3850.0,
+      "Id": 102
+    },
+    {
+      "Name": "Merge Size",
+      "Category": "Split Merge",
+      "PosX": -1350.0,
+      "PosY": 3850.0,
+      "Id": 103
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 3900.0,
+      "Id": 104,
+      "Min": 0,
+      "Max": 2000,
+      "Value": 20.0
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -1200.0,
+      "PosY": 4000.0,
+      "Id": 105,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.022917,
+      "Value_Y": 0.128704
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1050.0,
+      "PosY": 4000.0,
+      "Id": 106
+    },
+    {
+      "Name": "Render Image Image Mask",
+      "Category": "Image Render",
+      "PosX": -900.0,
+      "PosY": 4000.0,
+      "Id": 107,
+      "Layer": 4
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 4150.0,
+      "Id": 108,
+      "Min": 0,
+      "Max": 2000,
+      "Value": 26.0
+    },
+    {
+      "Name": "Multiply",
+      "Category": "Math",
+      "PosX": -1650.0,
+      "PosY": 4150.0,
+      "Id": 109
+    },
+    {
+      "Name": "Merge Size",
+      "Category": "Split Merge",
+      "PosX": -1350.0,
+      "PosY": 4150.0,
+      "Id": 110
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 4200.0,
+      "Id": 111,
+      "Min": 0,
+      "Max": 2000,
+      "Value": 20.0
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -1200.0,
+      "PosY": 4300.0,
+      "Id": 112,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.034375,
+      "Value_Y": 0.128704
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1050.0,
+      "PosY": 4300.0,
+      "Id": 113
+    },
+    {
+      "Name": "Render Image Image Mask",
+      "Category": "Image Render",
+      "PosX": -900.0,
+      "PosY": 4300.0,
+      "Id": 114,
+      "Layer": 4
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 4450.0,
+      "Id": 115,
+      "Min": 0,
+      "Max": 2000,
+      "Value": 16.0
+    },
+    {
+      "Name": "Multiply",
+      "Category": "Math",
+      "PosX": -1650.0,
+      "PosY": 4450.0,
+      "Id": 116
+    },
+    {
+      "Name": "Merge Size",
+      "Category": "Split Merge",
+      "PosX": -1350.0,
+      "PosY": 4450.0,
+      "Id": 117
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 4500.0,
+      "Id": 118,
+      "Min": 0,
+      "Max": 2000,
+      "Value": 20.0
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -1200.0,
+      "PosY": 4600.0,
+      "Id": 119,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.022917,
+      "Value_Y": 0.128704
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1050.0,
+      "PosY": 4600.0,
+      "Id": 120
+    },
+    {
+      "Name": "Render Image Image Mask",
+      "Category": "Image Render",
+      "PosX": -900.0,
+      "PosY": 4600.0,
+      "Id": 121,
+      "Layer": 4
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 4750.0,
+      "Id": 122,
+      "Min": 0,
+      "Max": 2000,
+      "Value": 26.0
+    },
+    {
+      "Name": "Multiply",
+      "Category": "Math",
+      "PosX": -1650.0,
+      "PosY": 4750.0,
+      "Id": 123
+    },
+    {
+      "Name": "Merge Size",
+      "Category": "Split Merge",
+      "PosX": -1350.0,
+      "PosY": 4750.0,
+      "Id": 124
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 4800.0,
+      "Id": 125,
+      "Min": 0,
+      "Max": 2000,
+      "Value": 20.0
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -1200.0,
+      "PosY": 4900.0,
+      "Id": 126,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.034375,
+      "Value_Y": 0.128704
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1050.0,
+      "PosY": 4900.0,
+      "Id": 127
+    },
+    {
+      "Name": "Render Image Image Mask",
+      "Category": "Image Render",
+      "PosX": -900.0,
+      "PosY": 4900.0,
+      "Id": 128,
+      "Layer": 4
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 5050.0,
+      "Id": 129,
+      "Min": 0,
+      "Max": 2000,
+      "Value": 26.0
+    },
+    {
+      "Name": "Multiply",
+      "Category": "Math",
+      "PosX": -1650.0,
+      "PosY": 5050.0,
+      "Id": 130
+    },
+    {
+      "Name": "Merge Size",
+      "Category": "Split Merge",
+      "PosX": -1350.0,
+      "PosY": 5050.0,
+      "Id": 131
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 5100.0,
+      "Id": 132,
+      "Min": 0,
+      "Max": 2000,
+      "Value": 20.0
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -1200.0,
+      "PosY": 5200.0,
+      "Id": 133,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.05,
+      "Value_Y": 0.128704
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1050.0,
+      "PosY": 5200.0,
+      "Id": 134
+    },
+    {
+      "Name": "Render Image Image Mask",
+      "Category": "Image Render",
+      "PosX": -900.0,
+      "PosY": 5200.0,
+      "Id": 135,
+      "Layer": 4
+    },
+    {
+      "Name": "String Arg",
+      "Category": "Argument",
+      "PosX": -700.0,
+      "PosY": 5350.0,
+      "Id": 136,
+      "ArgName": "queueFilter"
+    },
+    {
+      "Name": "Text Size",
+      "Category": "Text Render",
+      "PosX": -550.0,
+      "PosY": 5350.0,
+      "Id": 137
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -700.0,
+      "PosY": 5400.0,
+      "Id": 138,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.185417,
+      "Value_Y": 0.128704
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -400.0,
+      "PosY": 5350.0,
+      "Id": 139
+    },
+    {
+      "Name": "Text Render",
+      "Category": "Text Render",
+      "PosX": -250.0,
+      "PosY": 5350.0,
+      "Id": 140,
+      "Layer": 4
+    },
+    {
+      "Name": "String Arg",
+      "Category": "Argument",
+      "PosX": -700.0,
+      "PosY": 5500.0,
+      "Id": 141,
+      "ArgName": "queueFilterAny"
+    },
+    {
+      "Name": "Text Size",
+      "Category": "Text Render",
+      "PosX": -550.0,
+      "PosY": 5500.0,
+      "Id": 142
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -700.0,
+      "PosY": 5550.0,
+      "Id": 143,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.185417,
+      "Value_Y": 0.128704
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -400.0,
+      "PosY": 5500.0,
+      "Id": 144
+    },
+    {
+      "Name": "Text Render",
+      "Category": "Text Render",
+      "PosX": -250.0,
+      "PosY": 5500.0,
+      "Id": 145,
+      "Layer": 4
+    },
+    {
+      "Name": "String Arg",
+      "Category": "Argument",
+      "PosX": -700.0,
+      "PosY": 5650.0,
+      "Id": 146,
+      "ArgName": "graceText"
+    },
+    {
+      "Name": "Text Size",
+      "Category": "Text Render",
+      "PosX": -550.0,
+      "PosY": 5650.0,
+      "Id": 147
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -700.0,
+      "PosY": 5700.0,
+      "Id": 148,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.022917,
+      "Value_Y": 0.150926
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -400.0,
+      "PosY": 5650.0,
+      "Id": 149
+    },
+    {
+      "Name": "Text Render",
+      "Category": "Text Render",
+      "PosX": -250.0,
+      "PosY": 5650.0,
+      "Id": 150,
+      "Layer": 4
+    },
+    {
+      "Name": "Current Time",
+      "Category": "Globals",
+      "PosX": -1900.0,
+      "PosY": 5800.0,
+      "Id": 151
+    },
+    {
+      "Name": "Subtract",
+      "Category": "Math",
+      "PosX": -1750.0,
+      "PosY": 5800.0,
+      "Id": 152
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1750.0,
+      "PosY": 5850.0,
+      "Id": 153,
+      "Min": -1.0,
+      "Max": 1.0,
+      "Value": 0.0
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1600.0,
+      "PosY": 5850.0,
+      "Id": 154,
+      "Min": 0.0,
+      "Max": 1.0,
+      "Value": 1.0
+    },
+    {
+      "Name": "Greater Than",
+      "Category": "Conditionals",
+      "PosX": -1750.0,
+      "PosY": 5900.0,
+      "Id": 155
+    },
+    {
+      "Name": "Conditional (Float)",
+      "Category": "Conditionals",
+      "PosX": -1650.0,
+      "PosY": 5900.0,
+      "Id": 156
+    },
+    {
+      "Name": "Divide",
+      "Category": "Math",
+      "PosX": -1600.0,
+      "PosY": 5800.0,
+      "Id": 157
+    },
+    {
+      "Name": "Greater Than",
+      "Category": "Conditionals",
+      "PosX": -1450.0,
+      "PosY": 5800.0,
+      "Id": 158
+    },
+    {
+      "Name": "Conditional (Float)",
+      "Category": "Conditionals",
+      "PosX": -1300.0,
+      "PosY": 5800.0,
+      "Id": 159
+    },
+    {
+      "Name": "Greater Than",
+      "Category": "Conditionals",
+      "PosX": -1150.0,
+      "PosY": 5800.0,
+      "Id": 160
+    },
+    {
+      "Name": "Conditional (Float)",
+      "Category": "Conditionals",
+      "PosX": -1000.0,
+      "PosY": 5800.0,
+      "Id": 161
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 6000.0,
+      "Id": 162,
+      "Min": 0,
+      "Max": 2000,
+      "Value": 312.0
+    },
+    {
+      "Name": "Multiply",
+      "Category": "Math",
+      "PosX": -1650.0,
+      "PosY": 6000.0,
+      "Id": 163
+    },
+    {
+      "Name": "Merge Size",
+      "Category": "Split Merge",
+      "PosX": -1350.0,
+      "PosY": 6000.0,
+      "Id": 164
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 6050.0,
+      "Id": 165,
+      "Min": 0,
+      "Max": 2000,
+      "Value": 3.0
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -1200.0,
+      "PosY": 6150.0,
+      "Id": 166,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.022917,
+      "Value_Y": 0.162963
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1050.0,
+      "PosY": 6150.0,
+      "Id": 167
+    },
+    {
+      "Name": "Render Image Image Mask",
+      "Category": "Image Render",
+      "PosX": -900.0,
+      "PosY": 6150.0,
+      "Id": 168,
+      "Layer": 4
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 6300.0,
+      "Id": 169,
+      "Min": 0,
+      "Max": 2000,
+      "Value": 312.0
+    },
+    {
+      "Name": "Multiply",
+      "Category": "Math",
+      "PosX": -1650.0,
+      "PosY": 6300.0,
+      "Id": 170
+    },
+    {
+      "Name": "Multiply",
+      "Category": "Math",
+      "PosX": -1500.0,
+      "PosY": 6300.0,
+      "Id": 171
+    },
+    {
+      "Name": "Merge Size",
+      "Category": "Split Merge",
+      "PosX": -1350.0,
+      "PosY": 6300.0,
+      "Id": 172
+    },
+    {
+      "Name": "Float Constant",
+      "Category": "Constant",
+      "PosX": -1900.0,
+      "PosY": 6350.0,
+      "Id": 173,
+      "Min": 0,
+      "Max": 2000,
+      "Value": 3.0
+    },
+    {
+      "Name": "Vector2 Constant",
+      "Category": "Constant",
+      "PosX": -1200.0,
+      "PosY": 6450.0,
+      "Id": 174,
+      "Min": -2.0,
+      "Max": 2.0,
+      "Value_X": 0.022917,
+      "Value_Y": 0.162963
+    },
+    {
+      "Name": "Transform 2",
+      "Category": "Transform",
+      "PosX": -1050.0,
+      "PosY": 6450.0,
+      "Id": 175
+    },
+    {
+      "Name": "Render Image Image Mask",
+      "Category": "Image Render",
+      "PosX": -900.0,
+      "PosY": 6450.0,
+      "Id": 176,
+      "Layer": 4
+    }
+  ],
+  "Links": [
+    {
+      "LeftNode": 1,
+      "LeftPin": "Value",
+      "RightNode": 10,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 6,
+      "LeftPin": "Value",
+      "RightNode": 10,
+      "RightPin": "mainColor"
+    },
+    {
+      "LeftNode": 2,
+      "LeftPin": "Value",
+      "RightNode": 11,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 7,
+      "LeftPin": "Value",
+      "RightNode": 11,
+      "RightPin": "mainColor"
+    },
+    {
+      "LeftNode": 3,
+      "LeftPin": "Value",
+      "RightNode": 12,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 8,
+      "LeftPin": "Value",
+      "RightNode": 12,
+      "RightPin": "mainColor"
+    },
+    {
+      "LeftNode": 4,
+      "LeftPin": "Value",
+      "RightNode": 13,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 7,
+      "LeftPin": "Value",
+      "RightNode": 13,
+      "RightPin": "mainColor"
+    },
+    {
+      "LeftNode": 4,
+      "LeftPin": "Value",
+      "RightNode": 14,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 9,
+      "LeftPin": "Value",
+      "RightNode": 14,
+      "RightPin": "mainColor"
+    },
+    {
+      "LeftNode": 5,
+      "LeftPin": "Value",
+      "RightNode": 15,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 9,
+      "LeftPin": "Value",
+      "RightNode": 15,
+      "RightPin": "mainColor"
+    },
+    {
+      "LeftNode": 30,
+      "LeftPin": "Value",
+      "RightNode": 46,
+      "RightPin": "A"
+    },
+    {
+      "LeftNode": 44,
+      "LeftPin": "Value",
+      "RightNode": 46,
+      "RightPin": "B"
+    },
+    {
+      "LeftNode": 31,
+      "LeftPin": "Value",
+      "RightNode": 47,
+      "RightPin": "A"
+    },
+    {
+      "LeftNode": 45,
+      "LeftPin": "Value",
+      "RightNode": 47,
+      "RightPin": "B"
+    },
+    {
+      "LeftNode": 46,
+      "LeftPin": "Res",
+      "RightNode": 48,
+      "RightPin": "A"
+    },
+    {
+      "LeftNode": 43,
+      "LeftPin": "Value",
+      "RightNode": 48,
+      "RightPin": "B"
+    },
+    {
+      "LeftNode": 48,
+      "LeftPin": "Res",
+      "RightNode": 49,
+      "RightPin": "A"
+    },
+    {
+      "LeftNode": 47,
+      "LeftPin": "Res",
+      "RightNode": 49,
+      "RightPin": "B"
+    },
+    {
+      "LeftNode": 50,
+      "LeftPin": "Value",
+      "RightNode": 52,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 29,
+      "LeftPin": "Value",
+      "RightNode": 52,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 51,
+      "LeftPin": "Value",
+      "RightNode": 52,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 52,
+      "LeftPin": "Out",
+      "RightNode": 54,
+      "RightPin": "Parent"
+    },
+    {
+      "LeftNode": 51,
+      "LeftPin": "Value",
+      "RightNode": 54,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 29,
+      "LeftPin": "Value",
+      "RightNode": 54,
+      "RightPin": "Rotation Origin"
+    },
+    {
+      "LeftNode": 53,
+      "LeftPin": "Value",
+      "RightNode": 54,
+      "RightPin": "Rotation"
+    },
+    {
+      "LeftNode": 55,
+      "LeftPin": "Value",
+      "RightNode": 56,
+      "RightPin": "X"
+    },
+    {
+      "LeftNode": 49,
+      "LeftPin": "Res",
+      "RightNode": 56,
+      "RightPin": "W"
+    },
+    {
+      "LeftNode": 57,
+      "LeftPin": "Value",
+      "RightNode": 58,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 26,
+      "LeftPin": "Value",
+      "RightNode": 58,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 56,
+      "LeftPin": "Out",
+      "RightNode": 58,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 17,
+      "LeftPin": "Value",
+      "RightNode": 59,
+      "RightPin": "Main Asset"
+    },
+    {
+      "LeftNode": 18,
+      "LeftPin": "Value",
+      "RightNode": 59,
+      "RightPin": "Main Color"
+    },
+    {
+      "LeftNode": 58,
+      "LeftPin": "Out",
+      "RightNode": 59,
+      "RightPin": "Transform"
+    },
+    {
+      "LeftNode": 54,
+      "LeftPin": "Out",
+      "RightNode": 59,
+      "RightPin": "Clip"
+    },
+    {
+      "LeftNode": 60,
+      "LeftPin": "Value",
+      "RightNode": 61,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 26,
+      "LeftPin": "Value",
+      "RightNode": 61,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 56,
+      "LeftPin": "Out",
+      "RightNode": 61,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 16,
+      "LeftPin": "Value",
+      "RightNode": 62,
+      "RightPin": "Main Asset"
+    },
+    {
+      "LeftNode": 19,
+      "LeftPin": "Value",
+      "RightNode": 62,
+      "RightPin": "Main Color"
+    },
+    {
+      "LeftNode": 61,
+      "LeftPin": "Out",
+      "RightNode": 62,
+      "RightPin": "Transform"
+    },
+    {
+      "LeftNode": 54,
+      "LeftPin": "Out",
+      "RightNode": 62,
+      "RightPin": "Clip"
+    },
+    {
+      "LeftNode": 63,
+      "LeftPin": "Value",
+      "RightNode": 64,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 26,
+      "LeftPin": "Value",
+      "RightNode": 64,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 56,
+      "LeftPin": "Out",
+      "RightNode": 64,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 37,
+      "LeftPin": "Value",
+      "RightNode": 65,
+      "RightPin": "Main Asset"
+    },
+    {
+      "LeftNode": 18,
+      "LeftPin": "Value",
+      "RightNode": 65,
+      "RightPin": "Main Color"
+    },
+    {
+      "LeftNode": 64,
+      "LeftPin": "Out",
+      "RightNode": 65,
+      "RightPin": "Transform"
+    },
+    {
+      "LeftNode": 54,
+      "LeftPin": "Out",
+      "RightNode": 65,
+      "RightPin": "Clip"
+    },
+    {
+      "LeftNode": 67,
+      "LeftPin": "Value",
+      "RightNode": 68,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 26,
+      "LeftPin": "Value",
+      "RightNode": 68,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 66,
+      "LeftPin": "Value",
+      "RightNode": 68,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 16,
+      "LeftPin": "Value",
+      "RightNode": 69,
+      "RightPin": "Main Asset"
+    },
+    {
+      "LeftNode": 20,
+      "LeftPin": "Value",
+      "RightNode": 69,
+      "RightPin": "Main Color"
+    },
+    {
+      "LeftNode": 68,
+      "LeftPin": "Out",
+      "RightNode": 69,
+      "RightPin": "Transform"
+    },
+    {
+      "LeftNode": 54,
+      "LeftPin": "Out",
+      "RightNode": 69,
+      "RightPin": "Clip"
+    },
+    {
+      "LeftNode": 70,
+      "LeftPin": "Value",
+      "RightNode": 71,
+      "RightPin": "X"
+    },
+    {
+      "LeftNode": 49,
+      "LeftPin": "Res",
+      "RightNode": 71,
+      "RightPin": "W"
+    },
+    {
+      "LeftNode": 72,
+      "LeftPin": "Value",
+      "RightNode": 73,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 26,
+      "LeftPin": "Value",
+      "RightNode": 73,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 71,
+      "LeftPin": "Out",
+      "RightNode": 73,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 16,
+      "LeftPin": "Value",
+      "RightNode": 74,
+      "RightPin": "Main Asset"
+    },
+    {
+      "LeftNode": 22,
+      "LeftPin": "Value",
+      "RightNode": 74,
+      "RightPin": "Main Color"
+    },
+    {
+      "LeftNode": 73,
+      "LeftPin": "Out",
+      "RightNode": 74,
+      "RightPin": "Transform"
+    },
+    {
+      "LeftNode": 30,
+      "LeftPin": "Value",
+      "RightNode": 76,
+      "RightPin": "A"
+    },
+    {
+      "LeftNode": 75,
+      "LeftPin": "Value",
+      "RightNode": 76,
+      "RightPin": "B"
+    },
+    {
+      "LeftNode": 76,
+      "LeftPin": "Res",
+      "RightNode": 77,
+      "RightPin": "X"
+    },
+    {
+      "LeftNode": 78,
+      "LeftPin": "Value",
+      "RightNode": 77,
+      "RightPin": "W"
+    },
+    {
+      "LeftNode": 79,
+      "LeftPin": "Value",
+      "RightNode": 80,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 26,
+      "LeftPin": "Value",
+      "RightNode": 80,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 77,
+      "LeftPin": "Out",
+      "RightNode": 80,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 16,
+      "LeftPin": "Value",
+      "RightNode": 81,
+      "RightPin": "Main Asset"
+    },
+    {
+      "LeftNode": 21,
+      "LeftPin": "Value",
+      "RightNode": 81,
+      "RightPin": "Main Color"
+    },
+    {
+      "LeftNode": 80,
+      "LeftPin": "Out",
+      "RightNode": 81,
+      "RightPin": "Transform"
+    },
+    {
+      "LeftNode": 83,
+      "LeftPin": "Value",
+      "RightNode": 84,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 29,
+      "LeftPin": "Value",
+      "RightNode": 84,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 82,
+      "LeftPin": "Value",
+      "RightNode": 84,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 36,
+      "LeftPin": "Value",
+      "RightNode": 85,
+      "RightPin": "Main Asset"
+    },
+    {
+      "LeftNode": 18,
+      "LeftPin": "Value",
+      "RightNode": 85,
+      "RightPin": "Main Color"
+    },
+    {
+      "LeftNode": 84,
+      "LeftPin": "Out",
+      "RightNode": 85,
+      "RightPin": "Transform"
+    },
+    {
+      "LeftNode": 86,
+      "LeftPin": "Value",
+      "RightNode": 87,
+      "RightPin": "text"
+    },
+    {
+      "LeftNode": 10,
+      "LeftPin": "Style",
+      "RightNode": 87,
+      "RightPin": "Style_0"
+    },
+    {
+      "LeftNode": 88,
+      "LeftPin": "Value",
+      "RightNode": 89,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 27,
+      "LeftPin": "Value",
+      "RightNode": 89,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 87,
+      "LeftPin": "Size",
+      "RightNode": 89,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 87,
+      "LeftPin": "Text Data",
+      "RightNode": 90,
+      "RightPin": "Data"
+    },
+    {
+      "LeftNode": 89,
+      "LeftPin": "Out",
+      "RightNode": 90,
+      "RightPin": "Parent"
+    },
+    {
+      "LeftNode": 91,
+      "LeftPin": "Value",
+      "RightNode": 92,
+      "RightPin": "text"
+    },
+    {
+      "LeftNode": 11,
+      "LeftPin": "Style",
+      "RightNode": 92,
+      "RightPin": "Style_0"
+    },
+    {
+      "LeftNode": 93,
+      "LeftPin": "Value",
+      "RightNode": 94,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 28,
+      "LeftPin": "Value",
+      "RightNode": 94,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 92,
+      "LeftPin": "Size",
+      "RightNode": 94,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 92,
+      "LeftPin": "Text Data",
+      "RightNode": 95,
+      "RightPin": "Data"
+    },
+    {
+      "LeftNode": 94,
+      "LeftPin": "Out",
+      "RightNode": 95,
+      "RightPin": "Parent"
+    },
+    {
+      "LeftNode": 96,
+      "LeftPin": "Value",
+      "RightNode": 97,
+      "RightPin": "text"
+    },
+    {
+      "LeftNode": 12,
+      "LeftPin": "Style",
+      "RightNode": 97,
+      "RightPin": "Style_0"
+    },
+    {
+      "LeftNode": 98,
+      "LeftPin": "Value",
+      "RightNode": 99,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 27,
+      "LeftPin": "Value",
+      "RightNode": 99,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 97,
+      "LeftPin": "Size",
+      "RightNode": 99,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 97,
+      "LeftPin": "Text Data",
+      "RightNode": 100,
+      "RightPin": "Data"
+    },
+    {
+      "LeftNode": 99,
+      "LeftPin": "Out",
+      "RightNode": 100,
+      "RightPin": "Parent"
+    },
+    {
+      "LeftNode": 32,
+      "LeftPin": "Value",
+      "RightNode": 102,
+      "RightPin": "A"
+    },
+    {
+      "LeftNode": 101,
+      "LeftPin": "Value",
+      "RightNode": 102,
+      "RightPin": "B"
+    },
+    {
+      "LeftNode": 102,
+      "LeftPin": "Res",
+      "RightNode": 103,
+      "RightPin": "X"
+    },
+    {
+      "LeftNode": 104,
+      "LeftPin": "Value",
+      "RightNode": 103,
+      "RightPin": "W"
+    },
+    {
+      "LeftNode": 105,
+      "LeftPin": "Value",
+      "RightNode": 106,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 27,
+      "LeftPin": "Value",
+      "RightNode": 106,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 103,
+      "LeftPin": "Out",
+      "RightNode": 106,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 38,
+      "LeftPin": "Value",
+      "RightNode": 107,
+      "RightPin": "Main Asset"
+    },
+    {
+      "LeftNode": 23,
+      "LeftPin": "Value",
+      "RightNode": 107,
+      "RightPin": "Main Color"
+    },
+    {
+      "LeftNode": 106,
+      "LeftPin": "Out",
+      "RightNode": 107,
+      "RightPin": "Transform"
+    },
+    {
+      "LeftNode": 32,
+      "LeftPin": "Value",
+      "RightNode": 109,
+      "RightPin": "A"
+    },
+    {
+      "LeftNode": 108,
+      "LeftPin": "Value",
+      "RightNode": 109,
+      "RightPin": "B"
+    },
+    {
+      "LeftNode": 109,
+      "LeftPin": "Res",
+      "RightNode": 110,
+      "RightPin": "X"
+    },
+    {
+      "LeftNode": 111,
+      "LeftPin": "Value",
+      "RightNode": 110,
+      "RightPin": "W"
+    },
+    {
+      "LeftNode": 112,
+      "LeftPin": "Value",
+      "RightNode": 113,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 27,
+      "LeftPin": "Value",
+      "RightNode": 113,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 110,
+      "LeftPin": "Out",
+      "RightNode": 113,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 40,
+      "LeftPin": "Value",
+      "RightNode": 114,
+      "RightPin": "Main Asset"
+    },
+    {
+      "LeftNode": 22,
+      "LeftPin": "Value",
+      "RightNode": 114,
+      "RightPin": "Main Color"
+    },
+    {
+      "LeftNode": 113,
+      "LeftPin": "Out",
+      "RightNode": 114,
+      "RightPin": "Transform"
+    },
+    {
+      "LeftNode": 33,
+      "LeftPin": "Value",
+      "RightNode": 116,
+      "RightPin": "A"
+    },
+    {
+      "LeftNode": 115,
+      "LeftPin": "Value",
+      "RightNode": 116,
+      "RightPin": "B"
+    },
+    {
+      "LeftNode": 116,
+      "LeftPin": "Res",
+      "RightNode": 117,
+      "RightPin": "X"
+    },
+    {
+      "LeftNode": 118,
+      "LeftPin": "Value",
+      "RightNode": 117,
+      "RightPin": "W"
+    },
+    {
+      "LeftNode": 119,
+      "LeftPin": "Value",
+      "RightNode": 120,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 27,
+      "LeftPin": "Value",
+      "RightNode": 120,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 117,
+      "LeftPin": "Out",
+      "RightNode": 120,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 39,
+      "LeftPin": "Value",
+      "RightNode": 121,
+      "RightPin": "Main Asset"
+    },
+    {
+      "LeftNode": 24,
+      "LeftPin": "Value",
+      "RightNode": 121,
+      "RightPin": "Main Color"
+    },
+    {
+      "LeftNode": 120,
+      "LeftPin": "Out",
+      "RightNode": 121,
+      "RightPin": "Transform"
+    },
+    {
+      "LeftNode": 33,
+      "LeftPin": "Value",
+      "RightNode": 123,
+      "RightPin": "A"
+    },
+    {
+      "LeftNode": 122,
+      "LeftPin": "Value",
+      "RightNode": 123,
+      "RightPin": "B"
+    },
+    {
+      "LeftNode": 123,
+      "LeftPin": "Res",
+      "RightNode": 124,
+      "RightPin": "X"
+    },
+    {
+      "LeftNode": 125,
+      "LeftPin": "Value",
+      "RightNode": 124,
+      "RightPin": "W"
+    },
+    {
+      "LeftNode": 126,
+      "LeftPin": "Value",
+      "RightNode": 127,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 27,
+      "LeftPin": "Value",
+      "RightNode": 127,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 124,
+      "LeftPin": "Out",
+      "RightNode": 127,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 41,
+      "LeftPin": "Value",
+      "RightNode": 128,
+      "RightPin": "Main Asset"
+    },
+    {
+      "LeftNode": 24,
+      "LeftPin": "Value",
+      "RightNode": 128,
+      "RightPin": "Main Color"
+    },
+    {
+      "LeftNode": 127,
+      "LeftPin": "Out",
+      "RightNode": 128,
+      "RightPin": "Transform"
+    },
+    {
+      "LeftNode": 33,
+      "LeftPin": "Value",
+      "RightNode": 130,
+      "RightPin": "A"
+    },
+    {
+      "LeftNode": 129,
+      "LeftPin": "Value",
+      "RightNode": 130,
+      "RightPin": "B"
+    },
+    {
+      "LeftNode": 130,
+      "LeftPin": "Res",
+      "RightNode": 131,
+      "RightPin": "X"
+    },
+    {
+      "LeftNode": 132,
+      "LeftPin": "Value",
+      "RightNode": 131,
+      "RightPin": "W"
+    },
+    {
+      "LeftNode": 133,
+      "LeftPin": "Value",
+      "RightNode": 134,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 27,
+      "LeftPin": "Value",
+      "RightNode": 134,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 131,
+      "LeftPin": "Out",
+      "RightNode": 134,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 42,
+      "LeftPin": "Value",
+      "RightNode": 135,
+      "RightPin": "Main Asset"
+    },
+    {
+      "LeftNode": 24,
+      "LeftPin": "Value",
+      "RightNode": 135,
+      "RightPin": "Main Color"
+    },
+    {
+      "LeftNode": 134,
+      "LeftPin": "Out",
+      "RightNode": 135,
+      "RightPin": "Transform"
+    },
+    {
+      "LeftNode": 136,
+      "LeftPin": "Value",
+      "RightNode": 137,
+      "RightPin": "text"
+    },
+    {
+      "LeftNode": 13,
+      "LeftPin": "Style",
+      "RightNode": 137,
+      "RightPin": "Style_0"
+    },
+    {
+      "LeftNode": 138,
+      "LeftPin": "Value",
+      "RightNode": 139,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 28,
+      "LeftPin": "Value",
+      "RightNode": 139,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 137,
+      "LeftPin": "Size",
+      "RightNode": 139,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 137,
+      "LeftPin": "Text Data",
+      "RightNode": 140,
+      "RightPin": "Data"
+    },
+    {
+      "LeftNode": 139,
+      "LeftPin": "Out",
+      "RightNode": 140,
+      "RightPin": "Parent"
+    },
+    {
+      "LeftNode": 141,
+      "LeftPin": "Value",
+      "RightNode": 142,
+      "RightPin": "text"
+    },
+    {
+      "LeftNode": 14,
+      "LeftPin": "Style",
+      "RightNode": 142,
+      "RightPin": "Style_0"
+    },
+    {
+      "LeftNode": 143,
+      "LeftPin": "Value",
+      "RightNode": 144,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 28,
+      "LeftPin": "Value",
+      "RightNode": 144,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 142,
+      "LeftPin": "Size",
+      "RightNode": 144,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 142,
+      "LeftPin": "Text Data",
+      "RightNode": 145,
+      "RightPin": "Data"
+    },
+    {
+      "LeftNode": 144,
+      "LeftPin": "Out",
+      "RightNode": 145,
+      "RightPin": "Parent"
+    },
+    {
+      "LeftNode": 146,
+      "LeftPin": "Value",
+      "RightNode": 147,
+      "RightPin": "text"
+    },
+    {
+      "LeftNode": 15,
+      "LeftPin": "Style",
+      "RightNode": 147,
+      "RightPin": "Style_0"
+    },
+    {
+      "LeftNode": 148,
+      "LeftPin": "Value",
+      "RightNode": 149,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 27,
+      "LeftPin": "Value",
+      "RightNode": 149,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 147,
+      "LeftPin": "Size",
+      "RightNode": 149,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 147,
+      "LeftPin": "Text Data",
+      "RightNode": 150,
+      "RightPin": "Data"
+    },
+    {
+      "LeftNode": 149,
+      "LeftPin": "Out",
+      "RightNode": 150,
+      "RightPin": "Parent"
+    },
+    {
+      "LeftNode": 34,
+      "LeftPin": "Value",
+      "RightNode": 152,
+      "RightPin": "A"
+    },
+    {
+      "LeftNode": 151,
+      "LeftPin": "Time",
+      "RightNode": 152,
+      "RightPin": "B"
+    },
+    {
+      "LeftNode": 35,
+      "LeftPin": "Value",
+      "RightNode": 155,
+      "RightPin": "A"
+    },
+    {
+      "LeftNode": 153,
+      "LeftPin": "Value",
+      "RightNode": 155,
+      "RightPin": "B"
+    },
+    {
+      "LeftNode": 155,
+      "LeftPin": "Res",
+      "RightNode": 156,
+      "RightPin": "A"
+    },
+    {
+      "LeftNode": 35,
+      "LeftPin": "Value",
+      "RightNode": 156,
+      "RightPin": "B"
+    },
+    {
+      "LeftNode": 154,
+      "LeftPin": "Value",
+      "RightNode": 156,
+      "RightPin": "C"
+    },
+    {
+      "LeftNode": 152,
+      "LeftPin": "Res",
+      "RightNode": 157,
+      "RightPin": "A"
+    },
+    {
+      "LeftNode": 156,
+      "LeftPin": "Res",
+      "RightNode": 157,
+      "RightPin": "B"
+    },
+    {
+      "LeftNode": 157,
+      "LeftPin": "Res",
+      "RightNode": 158,
+      "RightPin": "A"
+    },
+    {
+      "LeftNode": 153,
+      "LeftPin": "Value",
+      "RightNode": 158,
+      "RightPin": "B"
+    },
+    {
+      "LeftNode": 158,
+      "LeftPin": "Res",
+      "RightNode": 159,
+      "RightPin": "A"
+    },
+    {
+      "LeftNode": 157,
+      "LeftPin": "Res",
+      "RightNode": 159,
+      "RightPin": "B"
+    },
+    {
+      "LeftNode": 153,
+      "LeftPin": "Value",
+      "RightNode": 159,
+      "RightPin": "C"
+    },
+    {
+      "LeftNode": 159,
+      "LeftPin": "Res",
+      "RightNode": 160,
+      "RightPin": "A"
+    },
+    {
+      "LeftNode": 154,
+      "LeftPin": "Value",
+      "RightNode": 160,
+      "RightPin": "B"
+    },
+    {
+      "LeftNode": 160,
+      "LeftPin": "Res",
+      "RightNode": 161,
+      "RightPin": "A"
+    },
+    {
+      "LeftNode": 154,
+      "LeftPin": "Value",
+      "RightNode": 161,
+      "RightPin": "B"
+    },
+    {
+      "LeftNode": 159,
+      "LeftPin": "Res",
+      "RightNode": 161,
+      "RightPin": "C"
+    },
+    {
+      "LeftNode": 31,
+      "LeftPin": "Value",
+      "RightNode": 163,
+      "RightPin": "A"
+    },
+    {
+      "LeftNode": 162,
+      "LeftPin": "Value",
+      "RightNode": 163,
+      "RightPin": "B"
+    },
+    {
+      "LeftNode": 163,
+      "LeftPin": "Res",
+      "RightNode": 164,
+      "RightPin": "X"
+    },
+    {
+      "LeftNode": 165,
+      "LeftPin": "Value",
+      "RightNode": 164,
+      "RightPin": "W"
+    },
+    {
+      "LeftNode": 166,
+      "LeftPin": "Value",
+      "RightNode": 167,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 27,
+      "LeftPin": "Value",
+      "RightNode": 167,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 164,
+      "LeftPin": "Out",
+      "RightNode": 167,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 16,
+      "LeftPin": "Value",
+      "RightNode": 168,
+      "RightPin": "Main Asset"
+    },
+    {
+      "LeftNode": 25,
+      "LeftPin": "Value",
+      "RightNode": 168,
+      "RightPin": "Main Color"
+    },
+    {
+      "LeftNode": 167,
+      "LeftPin": "Out",
+      "RightNode": 168,
+      "RightPin": "Transform"
+    },
+    {
+      "LeftNode": 31,
+      "LeftPin": "Value",
+      "RightNode": 170,
+      "RightPin": "A"
+    },
+    {
+      "LeftNode": 169,
+      "LeftPin": "Value",
+      "RightNode": 170,
+      "RightPin": "B"
+    },
+    {
+      "LeftNode": 170,
+      "LeftPin": "Res",
+      "RightNode": 171,
+      "RightPin": "A"
+    },
+    {
+      "LeftNode": 161,
+      "LeftPin": "Res",
+      "RightNode": 171,
+      "RightPin": "B"
+    },
+    {
+      "LeftNode": 171,
+      "LeftPin": "Res",
+      "RightNode": 172,
+      "RightPin": "X"
+    },
+    {
+      "LeftNode": 173,
+      "LeftPin": "Value",
+      "RightNode": 172,
+      "RightPin": "W"
+    },
+    {
+      "LeftNode": 174,
+      "LeftPin": "Value",
+      "RightNode": 175,
+      "RightPin": "Val_0"
+    },
+    {
+      "LeftNode": 27,
+      "LeftPin": "Value",
+      "RightNode": 175,
+      "RightPin": "Val_3"
+    },
+    {
+      "LeftNode": 172,
+      "LeftPin": "Out",
+      "RightNode": 175,
+      "RightPin": "Size"
+    },
+    {
+      "LeftNode": 16,
+      "LeftPin": "Value",
+      "RightNode": 176,
+      "RightPin": "Main Asset"
+    },
+    {
+      "LeftNode": 23,
+      "LeftPin": "Value",
+      "RightNode": 176,
+      "RightPin": "Main Color"
+    },
+    {
+      "LeftNode": 175,
+      "LeftPin": "Out",
+      "RightNode": 176,
+      "RightPin": "Transform"
+    }
+  ],
+  "RuiWidth": 1920.0,
+  "RuiHeight": 1080.0
+}

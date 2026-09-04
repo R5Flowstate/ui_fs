@@ -1,0 +1,12 @@
+sere_paths.json
+__pycache__/
+*.pyc
+work/
+build/
+*.ruip
+*.cpp
+*.dll
+*.obj
+*.exp
+*.lib
+*.rpak
