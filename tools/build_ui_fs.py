@@ -108,16 +108,6 @@ RUIS = [
             "lockIcon": "rui/menu/buttons/unlocked",
         },
     },
-    {
-        "name": "fs_viewkick_practice",
-        "graph": graph_of("fs_viewkick_practice"),
-        "defaults": {
-            "title": "",
-            "patternName": "",
-            "scoreText": "",
-            "hint": "",
-        },
-    },
 ]
 
 
