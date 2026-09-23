@@ -2,7 +2,7 @@
 
 Source for `ui_fs.rpak` and `ui_fs.dll`.
 
-Agents view included: CLAUDE.md
+Agents view included: AGENTS.md
 
 ## What is in here
 
